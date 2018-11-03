@@ -1,5 +1,7 @@
 # Data-Science-Project
+
 INTRODUCTION TO DATA SCIENCE
+
 Case Study 1: Collecting Data from Twitter
 We used Twitter Streaming API to collect data regarding "Ryanair" and performed Data Analysis for analyzing the tweets and tweet entities with frequency analysis and also performed Sentimental Analysis.
 
