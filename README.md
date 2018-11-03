@@ -12,3 +12,15 @@ Incorporated Machine Learning algorithms and examined two classifiers LinearSVC 
 Performed dimensionality reduction using PCA, SelectKBest, Truncated SVD, Kernel PCA and Incremental PCA.
 
 Explored manifold learning algorithms, few of them are LLE, MDS, TSNE, Isomap, Spectral Embedding to seperate positive and negative reviews using Python.
+
+Built a sentiment analysis model to predict whether a user liked a local business or not, based on their review on Yelp using Python’s Pandas, NLTK and Scikit-learn libraries. 
+
+Performed comparison of different classification algorithms to study their results of their confusion matrix, such as Gaussian NB, SVC and K-Neighbors classifiers and Multinomial NB.
+
+Built a model to recommend top restaurant in an area using k-means clustering.
+
+Built a model to recommend potential friends to users based on similarity metrics and second level relationship.
+
+Built a model to recommend potential users to business owners using Collaborative filtering.
+
+
