@@ -1,0 +1,11 @@
+business_id	positive	negative	name	city	stars	review_count	categories	positive_frac	negative_frac
+01fuY2NNscttoTxOYbuZXw	586	129	"b""Pinky's Westside Grill"""	Charlotte	4.0	715	['Diners', 'Burgers', 'Vegetarian', 'American (Traditional)', 'Salad', 'Restaurants']	0.8195804195804196	0.18041958041958042
+NFm869_w6cvVaWaNpAzjeA	617	147	b'Soul Gastrolounge'	Charlotte	4.0	764	['Nightlife', 'Tapas Bars', 'Lounges', 'Restaurants', 'Bars']	0.8075916230366492	0.19240837696335078
+RAh9WCQAuocM7hYM5_6tnw	1029	215	b'The Cowfish Sushi Burger Bar'	Charlotte	4.0	1244	['Asian Fusion', 'Restaurants', 'Sushi Bars', 'Burgers']	0.8271704180064309	0.17282958199356913
+RVQE2Z2uky4c0-njFQO66g	931	164	b'Midwood Smokehouse'	Charlotte	4.5	1095	['Food', 'Restaurants', 'Smokehouse', 'Barbeque', 'Pizza']	0.8502283105022831	0.14977168949771688
+T2tEMLpTeSMxLKpxwFdS3g	619	278	b'Cabo Fish Taco'	Charlotte	4.0	897	['Latin American', 'Mexican', 'Seafood', 'Restaurants']	0.6900780379041248	0.30992196209587514
+WbJ1LRQdOuYYlRLyTkuuxw	636	296	b'Tupelo Honey'	Charlotte	4.0	930	['Breakfast & Brunch', 'Southern', 'Restaurants', 'American (New)']	0.6838709677419355	0.31827956989247314
+aO1gAp41n8w8zpxTiHdLNA	473	266	"b""Mert's Heart & Soul"""	Charlotte	3.5	739	['Soul Food', 'Restaurants', 'Breakfast & Brunch', 'Southern']	0.6400541271989174	0.35994587280108253
+gG9z6zr_49LocyCTvSFg0w	979	274	"b""Am\xc3\xa9lie's French Bakery"""	Charlotte	4.0	1254	['Food', 'Coffee & Tea', 'Bakeries', 'Restaurants', 'Breakfast & Brunch', 'Cafes']	0.7807017543859649	0.21850079744816586
+sdYkVaTy7EJwUkO8Ie_qPg	643	59	b'Viva Chicken'	Charlotte	4.5	701	['Restaurants', 'Peruvian']	0.9172610556348074	0.08416547788873038
+yQab5dxZzgBLTEHCw9V7_w	833	672	b'Charlotte Douglas International Airport'	Charlotte	3.5	1508	['Airports', 'Hotels & Travel']	0.5523872679045093	0.44562334217506633

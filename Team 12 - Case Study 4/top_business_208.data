@@ -1,0 +1,209 @@
+business_id	positive	negative	name	city	stars	review_count	categories	positive_frac	negative_frac
+--cZ6Hhc9F7VkKXxHMVZSQ	217	83	b'Pio Pio'	Charlotte	4.0	299	['Restaurants', 'Peruvian', 'Spanish', 'Latin American']	0.725752508361204	0.27759197324414714
+-I27yVw2x_-31_OOMSH02w	143	40	b'Local Loaf'	Charlotte	4.0	183	['Food', 'Bakeries', 'American (Traditional)', 'Breakfast & Brunch', 'Delis', 'American (New)', 'Sandwiches', 'Restaurants']	0.7814207650273224	0.2185792349726776
+10tJuB_YkVQWuk4PtoI7iA	186	46	b'Intermezzo Pizzeria and Cafe'	Charlotte	4.0	231	['Cafes', 'Restaurants', 'Pizza']	0.8051948051948052	0.19913419913419914
+110iMPMPEEjFlf8HKVq84g	182	65	b'131 Main'	Charlotte	4.0	247	['American (New)', 'Restaurants']	0.7368421052631579	0.2631578947368421
+1FlIbmN4aNJuXsGK0shnfQ	161	86	b'Leroy Fox'	Charlotte	3.5	247	['Southern', 'Soul Food', 'Restaurants', 'American (New)', 'Sandwiches']	0.6518218623481782	0.3481781376518219
+1Geg7R5ACFL0oassVziNiQ	161	77	b'Crispy Crepe'	Charlotte	4.0	238	['Cafes', 'Breakfast & Brunch', 'Bakeries', 'Food', 'Creperies', 'Restaurants']	0.6764705882352942	0.3235294117647059
+1MvR4NJQbHy0i7ME1IoYpw	157	94	"b""Beef 'N Bottle"""	Charlotte	3.5	251	['Restaurants', 'Seafood', 'Steakhouses']	0.6254980079681275	0.3745019920318725
+1_jvFRQjcRVfd9LdOLvI8A	140	111	b'R\xc3\xad R\xc3\xa1 Irish Pub'	Charlotte	3.5	250	['Restaurants', 'Bars', 'Irish', 'Nightlife', 'Pubs']	0.56	0.444
+22MYhTXwSXaS4rW2VOrR-w	293	36	b'Jasmine Grill'	Charlotte	4.5	328	['Mediterranean', 'Restaurants', 'Middle Eastern', 'Halal']	0.8932926829268293	0.10975609756097561
+2S6p5ICNswz_EdgcZk76qQ	186	77	"b""Duckworth's Grill & Taphouse"""	Charlotte	4.0	262	['American (New)', 'American (Traditional)', 'Beer', 'Wine & Spirits', 'Nightlife', 'Bars', 'Restaurants', 'Food', 'Beer Bar']	0.7099236641221374	0.29389312977099236
+2um9bzTSvD3f2tkdBoA38g	163	62	b'Kid Cashew'	Charlotte	4.0	225	['Barbeque', 'American (New)', 'Mediterranean', 'Tapas/Small Plates', 'Restaurants']	0.7244444444444444	0.27555555555555555
+3CG7oBD_k85M8jJ_JlhL-A	158	135	b'The Penguin Drive-In'	Charlotte	3.0	293	['Restaurants', 'American (Traditional)', 'Diners']	0.5392491467576792	0.46075085324232085
+3b14ebd1k9y7VJbp5hC0gg	172	53	b'Beaudevin'	Charlotte	4.0	225	['Wine Bars', 'Restaurants', 'Wineries', 'Bars', 'Arts & Entertainment', 'Tapas/Small Plates', 'Food', 'Nightlife', 'Sandwiches']	0.7644444444444445	0.23555555555555555
+3vkP6t_kKN3JT8MMUaBVEA	166	41	b'Original Pancake House'	Charlotte	4.0	207	['Breakfast & Brunch', 'Restaurants', 'Kosher', 'American (Traditional)', 'Creperies']	0.8019323671497585	0.19806763285024154
+42TGx8KatGNPCi7rwOzazg	156	46	b'Verde Mexican and Nuevo Latin Fusion'	Huntersville	4.0	202	['Restaurants', 'Latin American', 'Mexican']	0.7722772277227723	0.22772277227722773
+4vDffQ7eSQ7n39cyroOSKQ	179	134	b'Crave Dessert Bar'	Charlotte	3.5	313	['Hookah Bars', 'Food', 'Lounges', 'Nightlife', 'Desserts', 'Bars']	0.5718849840255591	0.4281150159744409
+56HZLqQOcS1FSXqYG-3vLg	258	35	b'US National Whitewater Center'	Charlotte	4.5	292	['Active Life', 'Hiking', 'Community Service/Non-Profit', 'Bike Rentals', 'Rafting/Kayaking', 'Mountain Biking', 'Rock Climbing', 'Local Services']	0.8835616438356164	0.11986301369863013
+57aBx6Mo_VRk_kMA8J5Efg	166	30	b'Taqueria La Unica'	Indian Trail	4.5	196	['Restaurants', 'Mexican']	0.8469387755102041	0.15306122448979592
+5fquJHY2hMX9tPRD5s0t5g	239	88	"b""Rooster's Uptown"""	Charlotte	4.0	327	['French', 'Restaurants', 'Italian', 'American (New)']	0.7308868501529052	0.2691131498470948
+5q6Xh-UcJa78bp6dzyaE7w	304	37	b'Duck Donuts'	Charlotte	4.5	341	['Donuts', 'Restaurants', 'Coffee & Tea', 'Breakfast & Brunch', 'Food']	0.8914956011730205	0.10850439882697947
+6hZgMg9rnDCC0RBVRlkZwQ	172	37	b'Mr Tokyo Japanese Restaurant'	Charlotte	4.5	209	['Japanese', 'Food', 'Desserts', 'Sushi Bars', 'Restaurants', 'Salad']	0.8229665071770335	0.17703349282296652
+6kq9oLduJAYkb2WjAb36KA	269	19	"b""Le's Sandwiches & Cafe"""	Charlotte	4.5	288	['Restaurants', 'Vietnamese', 'Sandwiches']	0.9340277777777778	0.06597222222222222
+6zi7dAlnk7vgvlGbUMoKkA	111	85	b'Maverick Rock Taco'	Charlotte	3.5	196	['Bars', 'Nightlife', 'Restaurants', 'Mexican']	0.5663265306122449	0.4336734693877551
+88TyKo52CRajXHxWlS5eEQ	157	16	b'Royal Cafe & Creperie'	Matthews	4.5	173	['Restaurants', 'Creperies', 'Breakfast & Brunch', 'Cafes']	0.9075144508670521	0.09248554913294797
+8T5JnB9qL5y8RaCHH5zKSQ	146	55	b'Bean Vegan Cuisine'	Charlotte	4.0	202	['Gluten-Free', 'Comfort Food', 'Vegan', 'Vegetarian', 'Restaurants']	0.7227722772277227	0.2722772277227723
+8nmjvYX4N67cxOsGfbEgjg	97	209	b'Studio Movie Grill'	Charlotte	2.5	307	['Cinema', 'Nightlife', 'Arts & Entertainment', 'Restaurants', 'Bars', 'American (New)', 'American (Traditional)']	0.31596091205211724	0.6807817589576547
+8rtd2ZoeNMHjCQQnWuZ-bQ	137	56	b'Famous Toastery'	Davidson	4.0	193	['Breakfast & Brunch', 'Bars', 'Nightlife', 'Restaurants', 'American (New)']	0.7098445595854922	0.29015544041450775
+8yEFijvcNQ9JIGVWc3EgUw	154	24	b'Central Coffee Company'	Charlotte	4.5	178	['Coffee & Tea', 'Food']	0.8651685393258427	0.1348314606741573
+99j5vhhtFJIefXDLsmA29Q	182	28	b'Inizio Pizza Napoletana'	Charlotte	4.5	210	['Pizza', 'Italian', 'Salad', 'Gelato', 'Restaurants', 'Food']	0.8666666666666667	0.13333333333333333
+9TCzxlrOZSIFcBlvHIUgFA	150	28	b'PePeRo'	Matthews	4.0	178	['Grocery', 'Restaurants', 'Food', 'Korean']	0.8426966292134831	0.15730337078651685
+9dqdzRzjSfbnMvjUGqWBAw	327	173	b'Midnight Diner'	Charlotte	4.0	500	['Restaurants', 'Breakfast & Brunch', 'American (Traditional)', 'Diners']	0.654	0.346
+ADgacmZ-qXrSOhMfU6bmTA	305	201	b'5Church'	Charlotte	3.5	507	['Food', 'Restaurants', 'American (New)', 'Breakfast & Brunch', 'Desserts', 'Nightlife', 'Cocktail Bars', 'Bars']	0.6015779092702169	0.39644970414201186
+ALwAlxItASeEs2vYAeLXHA	479	115	b'Futo Buta'	Charlotte	4.0	594	['Restaurants', 'Asian Fusion', 'Japanese', 'Ramen']	0.8063973063973064	0.1936026936026936
+ATMiPNPxN-g1ra7nar5prA	126	76	"b""Fleming's Prime Steakhouse & Wine Bar"""	Charlotte	3.5	202	['Salad', 'Nightlife', 'Wine Bars', 'Restaurants', 'Steakhouses', 'Bars']	0.6237623762376238	0.37623762376237624
+AY4qBdRtkShnjiPTdlxw_A	138	131	b'Big View Diner'	Charlotte	3.0	269	['Diners', 'Breakfast & Brunch', 'Beer', 'Wine & Spirits', 'Bakeries', 'Food', 'American (Traditional)', 'Restaurants']	0.5130111524163569	0.48698884758364314
+Abm-1HRGPyevBtnC3Rpxag	127	141	b'Rock Bottom Restaurant & Brewery'	Charlotte	3.5	268	['Pubs', 'Nightlife', 'Sandwiches', 'Pizza', 'American (Traditional)', 'American (New)', 'Restaurants', 'Bars']	0.47388059701492535	0.5261194029850746
+Ac52FTELfKifOWT4WOafpQ	129	77	b'Blue Restaurant & Bar'	Charlotte	3.5	206	['Restaurants', 'Mediterranean', 'Nightlife', 'Bars', 'Jazz & Blues', 'American (New)', 'Wine Bars', 'Arts & Entertainment']	0.6262135922330098	0.3737864077669903
+AuIiqDeL65kczmiFSkAWrA	174	84	"b""Maggiano's Little Italy"""	Charlotte	3.5	258	['Bars', 'Italian', 'Restaurants', 'Nightlife']	0.6744186046511628	0.32558139534883723
+Ch7NAhB_MWSDwcNbcptEKg	270	103	b'Mimosa Grill'	Charlotte	4.0	372	['American (New)', 'Southern', 'Restaurants']	0.7258064516129032	0.2768817204301075
+CxsN79g8rZoouLwZvr_FVg	195	57	b'Fern'	Charlotte	4.0	252	['Restaurants', 'Vegan', 'Vegetarian']	0.7738095238095238	0.2261904761904762
+D2ojX9bvE0_-aIj9BhdZZA	398	104	b'300 East'	Charlotte	4.0	502	['Seafood', 'Pizza', 'Restaurants', 'Wine Bars', 'Bars', 'Breakfast & Brunch', 'American (New)', 'Sandwiches', 'Nightlife']	0.7928286852589641	0.20717131474103587
+DMwU0igEs9K7XuI3utsr6g	40	245	b'Tequileria'	Charlotte	2.0	285	['American (Traditional)', 'Mexican', 'Restaurants']	0.14035087719298245	0.8596491228070176
+DyOzNIeXUksPNLXYHnB-oQ	509	74	b'Sabor Latin Street Grill'	Charlotte	4.5	582	['Restaurants', 'Street Vendors', 'Latin American', 'Food', 'Mexican']	0.8745704467353952	0.12714776632302405
+E0HOsxXZ_o6ocemK57BoWA	123	98	b'A Piece Of Havana'	Charlotte	3.5	221	['Cuban', 'Restaurants']	0.5565610859728507	0.4434389140271493
+E0TK141YMBP0LBknhVKEqw	240	67	b'Cr\xc3\xaape Cellar'	Charlotte	4.0	307	['Restaurants', 'Gastropubs', 'American (New)', 'Creperies', 'Sandwiches', 'Modern European']	0.7817589576547231	0.2182410423452769
+E0vZWNBWe-LwdECQFIjnug	132	92	"b""Boardwalk Billy's Raw Bar And Ribs"""	Charlotte	3.5	223	['Diners', 'Sandwiches', 'Sports Bars', 'Nightlife', 'Bars', 'Barbeque', 'Restaurants', 'American (Traditional)']	0.5919282511210763	0.4125560538116592
+E3BTs8yFlVbZd20TknY00A	174	62	"b""Jim 'N Nick's Bar-B-Q"""	Charlotte	4.0	236	['Caterers', 'Restaurants', 'Barbeque', 'Event Planning & Services']	0.7372881355932204	0.2627118644067797
+ES0ijQ-KlNPUoXl4tK1tDQ	146	35	b'SouthPark'	Charlotte	4.0	181	['Shopping', 'Fashion', 'Department Stores', 'Shopping Centers']	0.8066298342541437	0.19337016574585636
+EvWGuX0eqKcZvLRgtIFHZg	182	46	"b""Eddie's Place"""	Charlotte	4.0	228	['Breakfast & Brunch', 'American (Traditional)', 'Nightlife', 'Bars', 'Restaurants']	0.7982456140350878	0.20175438596491227
+ExtP8z3SVyut_RICc9i_DA	165	39	b'Zeitouni Grill'	Charlotte	4.5	205	['Middle Eastern', 'Restaurants', 'Lebanese', 'Mediterranean']	0.8048780487804879	0.1902439024390244
+F1CCt2Gl6qpOB73mXi5anA	219	59	"b""Duckworth's Grill & Taphouse"""	Huntersville	4.0	276	['Nightlife', 'Gastropubs', 'Sports Bars', 'Bars', 'Restaurants']	0.7934782608695652	0.213768115942029
+F1odkZWmcXGylij8HjRq6Q	257	34	b'VBGB Beer Hall and Garden'	Charlotte	4.5	291	['Music Venues', 'Arts & Entertainment', 'American (New)', 'German', 'Bars', 'Beer Gardens', 'Beer', 'Wine & Spirits', 'Food', 'Pretzels', 'Restaurants', 'Nightlife']	0.8831615120274914	0.11683848797250859
+FBSWwaE6gR7KAOyG1QhakQ	164	63	b'Block & Grinder'	Charlotte	4.0	227	['Bars', 'Restaurants', 'Cocktail Bars', 'Food', 'American (New)', 'Butcher', 'Nightlife']	0.7224669603524229	0.2775330396475771
+FGy4UJ1Qri_KruPZiPmWYQ	250	29	b'Viva Chicken'	Charlotte	4.5	279	['Event Planning & Services', 'Restaurants', 'Peruvian', 'Caterers']	0.8960573476702509	0.1039426523297491
+FKOF8_OMvoPoDHOplDd7tQ	192	62	b'Kickstand Burgers & Bar'	Charlotte	4.0	254	['Bars', 'Burgers', 'Nightlife', 'Restaurants']	0.7559055118110236	0.2440944881889764
+G_LtZnL66Iwama_7_FCLUQ	145	92	b'Baku'	Charlotte	4.0	238	['Tapas/Small Plates', 'Restaurants', 'Japanese', 'Sushi Bars', 'Asian Fusion']	0.6092436974789915	0.3865546218487395
+H9a6IRS0edhW343Y2kXSSA	185	149	b'The Liberty'	Charlotte	3.5	334	['Restaurants', 'Gastropubs', 'Burgers']	0.5538922155688623	0.44610778443113774
+I6Xa5eF9Jv9VM6ms_dkY8A	150	38	b'Ilios Noche'	Charlotte	4.0	188	['Restaurants', 'Mediterranean', 'Nightlife', 'Greek', 'Bars']	0.7978723404255319	0.20212765957446807
+ICUCAzUZFiWkYs7iCtNCQg	192	103	b'Copper'	Charlotte	4.0	295	['Wine Bars', 'Pakistani', 'Indian', 'Restaurants', 'Nightlife', 'Bars']	0.6508474576271186	0.34915254237288135
+J3_FTjy9LAtTtoW_cLwPxg	137	75	b'CO'	Charlotte	3.5	212	['Restaurants', 'Vietnamese', 'Asian Fusion', 'Korean', 'Sushi Bars']	0.6462264150943396	0.35377358490566035
+JogUSDKa1xyG3lLEmD4Xjg	164	50	b'Fiamma'	Charlotte	4.0	214	['Italian', 'Restaurants']	0.7663551401869159	0.2336448598130841
+K0dw5NpZ_Ow1Dl8oQWsX4w	175	61	b'Cafe 100'	Huntersville	4.0	236	['Restaurants', 'Cafes', 'Breakfast & Brunch', 'American (New)']	0.7415254237288136	0.2584745762711864
+KEGLWeFAWXvo0W2LnujhtQ	208	55	b'Lang Van Vietnamese'	Charlotte	4.0	263	['Vietnamese', 'Restaurants']	0.7908745247148289	0.20912547528517111
+KbLI0QELlAwbfDUVwo43DQ	162	60	b'Cajun Yard Dog'	Charlotte	4.0	222	['Salad', 'American (New)', 'Cajun/Creole', 'Restaurants']	0.7297297297297297	0.2702702702702703
+L8rJht4Jw_BuR8gsckEWYg	156	156	b'The Cheesecake Factory'	Charlotte	3.5	312	['Food', 'American (New)', 'Desserts', 'Restaurants', 'American (Traditional)']	0.5	0.5
+LIvXzdMJrIb6IY5Y3tqicA	136	155	"b""Nan and Byron's"""	Charlotte	3.5	291	['American (New)', 'Restaurants']	0.46735395189003437	0.5326460481099656
+LQI8R7yYXmWzWKd7wLCf2Q	302	111	b'Dish'	Charlotte	4.0	413	['Southern', 'Restaurants']	0.7312348668280871	0.2687651331719128
+LUZ94dZpgCmBGyNH52S7lg	139	62	b'Essex Bar & Bistro'	Charlotte	4.0	201	['Gastropubs', 'Mediterranean', 'Restaurants', 'Cocktail Bars', 'American (New)', 'Bars', 'Nightlife']	0.6915422885572139	0.30845771144278605
+M0pkmBUi_CI0qrzN7ee80Q	227	63	"b""Am\xc3\xa9lie's French Bakery & Caf\xc3\xa9"""	Charlotte	4.0	290	['Bakeries', 'Coffee & Tea', 'Restaurants', 'Cafes', 'Food']	0.7827586206896552	0.21724137931034482
+M10n-ivjDkkdLaxIYNafFQ	193	99	b'Queen City Q'	Charlotte	3.5	291	['Barbeque', 'Restaurants', 'Southern']	0.6632302405498282	0.3402061855670103
+ME6D5nLlfG0xZCtICOYDuw	209	83	b'Georges Brasserie'	Charlotte	4.0	292	['French', 'American (New)', 'Restaurants', 'Brasseries']	0.7157534246575342	0.2842465753424658
+MQEpDvkdL39hh1N0We3Vaw	92	183	b'Hot Taco'	Charlotte	2.5	274	['Mexican', 'Restaurants']	0.3357664233576642	0.6678832116788321
+MrSHPvHVdE_VzVN7iRz45Q	143	163	b'Enso Asian Bistro & Sushi Bar'	Charlotte	3.5	306	['Nightlife', 'Sushi Bars', 'Restaurants', 'Asian Fusion', 'Lounges', 'Bars']	0.4673202614379085	0.5326797385620915
+MtSEQlqTj3Pup-wBY-dKfA	133	98	b'1897 Market'	Charlotte	3.5	231	['Pizza', 'Sandwiches', 'Restaurants', 'Beer', 'Wine & Spirits', 'Convenience Stores', 'Nightlife', 'Food', 'Bars']	0.5757575757575758	0.42424242424242425
+MtvN8vMiKcLkkz_tCvBx3g	178	100	b'Aria'	Charlotte	3.5	278	['American (New)', 'Restaurants', 'Italian']	0.6402877697841727	0.3597122302158273
+MtzjOi57BkQrqF8wqNOyHg	162	80	"b""Nana's Soul Food Kitchen"""	Charlotte	4.0	242	['Food', 'Restaurants', 'Soul Food', 'Specialty Food', 'Ethnic Food']	0.6694214876033058	0.3305785123966942
+NbrXg59fYR3MoeXdeAIQIQ	154	89	"b""Pike's Old Fashioned Soda Shop"""	Charlotte	3.5	243	['American (Traditional)', 'Ice Cream & Frozen Yogurt', 'Breakfast & Brunch', 'Food', 'Restaurants']	0.6337448559670782	0.3662551440329218
+PdCxX1QJnlBkvnG9fFjWYg	175	44	b'Sunflour Baking Company'	Charlotte	4.0	219	['Bakeries', 'Coffee & Tea', 'Sandwiches', 'Food', 'Restaurants', 'Cafes']	0.7990867579908676	0.2009132420091324
+Pk6A3Pqs6_qPLNevdADrDg	144	38	"b""Bad Daddy's Burger Bar"""	Huntersville	4.0	182	['Burgers', 'Ice Cream & Frozen Yogurt', 'Restaurants', 'Fast Food', 'Food']	0.7912087912087912	0.2087912087912088
+PqcOSnCsJTT9Yd2xWKIMWw	190	37	b'La Shish Kabob'	Charlotte	4.5	227	['Restaurants', 'Middle Eastern']	0.8370044052863436	0.16299559471365638
+QAHqplESgDUGgih45W9J-g	204	46	"b""Dressler's - Charlotte"""	Charlotte	4.0	250	['Bars', 'American (New)', 'Steakhouses', 'Seafood', 'Nightlife', 'Wine Bars', 'Restaurants']	0.816	0.184
+QFqtVX-lyZQgVHQrG-dhlg	181	118	b'Diamond Restaurant'	Charlotte	3.5	299	['American (New)', 'Diners', 'Restaurants', 'Southern']	0.6053511705685619	0.39464882943143814
+QH2OSulslnQ7Yn8Xs81SPg	147	41	b'Growlers Pourhouse'	Charlotte	4.0	188	['Nightlife', 'Restaurants', 'American (Traditional)', 'Bars', 'Beer Bar']	0.7819148936170213	0.21808510638297873
+QeDkfLmXVguytF3Of9zg-Q	169	84	"b""Boudreaux's Louisiana Kitchen"""	Charlotte	3.5	254	['Restaurants', 'Cajun/Creole', 'Breakfast & Brunch']	0.6653543307086615	0.33070866141732286
+Qsg-2Coum0ccbXuJWDwZqA	148	32	b'Dogwood Southern Table & Bar'	Charlotte	4.5	180	['Restaurants', 'Southern', 'American (New)']	0.8222222222222222	0.17777777777777778
+QvxBnMcBPP1z_NAIYCqqdA	152	25	b'Haberdish'	Charlotte	4.5	177	['Restaurants', 'Bars', 'Nightlife', 'Salad', 'Southern', 'Cocktail Bars']	0.8587570621468926	0.14124293785310735
+R1jJQi2yR44D_2ileqr8kA	220	44	b'Living Kitchen'	Charlotte	4.5	265	['Restaurants', 'Vegetarian', 'Vegan', 'Live/Raw Food']	0.8301886792452831	0.1660377358490566
+RcB7STNxoSDjtoK1pXgWBg	213	63	b'The Blue Taj'	Charlotte	4.0	276	['Breakfast & Brunch', 'Seafood', 'Restaurants', 'Indian']	0.7717391304347826	0.22826086956521738
+SHFlELFcEcAOJv_fTAKChQ	395	98	b'Dandelion Market'	Charlotte	4.0	493	['American (New)', 'Nightlife', 'Bars', 'Restaurants', 'Tapas/Small Plates']	0.8012170385395537	0.19878296146044624
+TLWZK8NIpn4zI4_yut-q6Q	257	27	"b""Luna's Living Kitchen"""	Charlotte	4.5	284	['Live/Raw Food', 'Restaurants', 'Vegan', 'Vegetarian']	0.9049295774647887	0.09507042253521127
+TTFbaLpIwrjFx7YIL2pbJA	316	33	b'Kabab-Je Rotisserie & Grille'	Matthews	4.5	352	['Vegan', 'Lebanese', 'Mediterranean', 'Middle Eastern', 'Restaurants']	0.8977272727272727	0.09375
+TZmMsbw5TbRqv8rmKj_aGg	182	26	b'The Common Market'	Charlotte	4.5	208	['Delicatessen', 'Delis', 'Beer', 'Wine & Spirits', 'Restaurants', 'Arts & Entertainment', 'Music Venues', 'Food', 'Nightlife', 'Sandwiches']	0.875	0.125
+U3kygJOTlTQFlfaZS7sQjA	219	67	"b""JJ's Red Hots"""	Charlotte	4.0	286	['Hot Dogs', 'Caterers', 'Event Planning & Services', 'Restaurants', 'American (Traditional)', 'Vegetarian']	0.7657342657342657	0.23426573426573427
+UByM7N0mF-ylIGUuIWHCtA	137	64	"b""Sullivan's Steakhouse"""	Charlotte	4.0	201	['Steakhouses', 'Restaurants']	0.681592039800995	0.31840796019900497
+USleI8g1UVN9-9jm-b4uIg	243	43	b'The Fig Tree Restaurant'	Charlotte	4.5	286	['French', 'Restaurants', 'Italian', 'American (New)']	0.8496503496503497	0.15034965034965034
+Uftnd7njdHNFxhz_6rpUrA	152	43	b'Sea Level NC'	Charlotte	4.0	195	['Seafood', 'Nightlife', 'Bars', 'Live/Raw Food', 'American (New)', 'Cocktail Bars', 'Restaurants']	0.7794871794871795	0.2205128205128205
+UzsXZoePcmt6RWo00qNNAw	92	162	b'Carolina Ale House'	Charlotte	3.0	255	['American (Traditional)', 'Nightlife', 'Sports Bars', 'Restaurants', 'Bars']	0.3607843137254902	0.6352941176470588
+V1cWGBZLQLyIiyo0iUOnyg	363	42	b'Not Just Coffee - 7th Street'	Charlotte	4.5	405	['Food', 'Coffee & Tea']	0.8962962962962963	0.1037037037037037
+VH3WA7a-OVzFj2K_SP4BIw	325	105	"b""The King's Kitchen"""	Charlotte	4.0	431	['Restaurants', 'Bakeries', 'Southern', 'American (Traditional)', 'Food']	0.7540603248259861	0.24361948955916474
+VZQPYoK6l_vo5jwYgabJdQ	122	67	"b""Pinky's Westside Grill"""	Huntersville	4.0	189	['Vegetarian', 'Cocktail Bars', 'Restaurants', 'Vegan', 'Nightlife', 'Bars', 'American (New)', 'American (Traditional)', 'Hot Dogs', 'Salad', 'Burgers', 'Diners']	0.6455026455026455	0.3544973544973545
+VdZ_0EzBo7EHsNmiZ-zX8Q	248	34	b'The Smoke Pit'	Concord	4.5	282	['Cafeteria', 'Barbeque', 'American (Traditional)', 'Restaurants']	0.8794326241134752	0.12056737588652482
+VeFqptSzekFAc3FZOpi81Q	249	37	"b""Alexander Michael's"""	Charlotte	4.5	286	['Local Flavor', 'Nightlife', 'Cajun/Creole', 'Bars', 'Pubs', 'American (Traditional)', 'Restaurants', 'Comfort Food']	0.8706293706293706	0.12937062937062938
+WCqcYtJ4rUxA4bIzjOfzqg	212	128	b'Vapiano'	Charlotte	3.5	341	['Italian', 'Restaurants', 'Pizza', 'Breakfast & Brunch']	0.6217008797653959	0.375366568914956
+WvC9K0ZEOTbR7fh-LNe5_A	146	104	b'Famous Toastery'	Charlotte	3.5	250	['Coffee & Tea', 'Food', 'Breakfast & Brunch', 'Restaurants']	0.584	0.416
+XagMSw5tADQbNSx0IM7TaA	178	5	b'Paper Skyscraper'	Charlotte	4.5	183	['Flowers & Gifts', 'Bookstores', 'Cards & Stationery', 'Arts & Crafts', 'Books', 'Mags', 'Music & Video', 'Shopping', 'Jewelry', 'Event Planning & Services']	0.9726775956284153	0.0273224043715847
+XgRljuEUyaHBKIpIz-PRAA	343	81	b'Bang Bang Burgers'	Charlotte	4.5	424	['American (New)', 'Burgers', 'Restaurants']	0.8089622641509434	0.19103773584905662
+Y3vtXQz3zPc5AVyUAsAj5Q	147	65	b'Pho Real Vietnamese Restaurant and Bar'	Charlotte	4.0	212	['Food', 'Cocktail Bars', 'Bubble Tea', 'Nightlife', 'Vietnamese', 'Bars', 'Restaurants']	0.6933962264150944	0.30660377358490565
+YAJzBGvqT3dT_qAg6u8E1A	247	46	"b""Lebowski's Neighborhood Grill"""	Charlotte	4.5	292	['Bars', 'Pubs', 'Restaurants', 'Nightlife', 'Sports Bars', 'American (Traditional)']	0.8458904109589042	0.15753424657534246
+YXa0A7aXV9wWNR0qJVVSDg	222	53	"b""Bad Daddy's Burger Bar"""	Charlotte	4.0	275	['Restaurants', 'Breakfast & Brunch', 'Burgers']	0.8072727272727273	0.19272727272727272
+Z4y3LZlCjv4xnZ8xOpYf_Q	151	42	b'TRUE Crafted Pizza'	Charlotte	4.0	193	['Food', 'Restaurants', 'Pizza']	0.7823834196891192	0.21761658031088082
+ZCXjNG1EBFiKKMtR9DOTGg	174	75	b'Thai House - University'	Charlotte	4.0	249	['Restaurants', 'Nightlife', 'Thai', 'Seafood', 'Bars']	0.6987951807228916	0.30120481927710846
+ZLNNXEZaCMhXuUovRTIGTw	187	36	"b""Owen's Bagel & Deli"""	Charlotte	4.5	223	['Coffee & Tea', 'Food', 'Delis', 'Bagels', 'Restaurants']	0.8385650224215246	0.16143497757847533
+ZMEax9auuGMUPqxl2D3kLA	168	61	b'Passage To India'	Charlotte	4.0	229	['Indian', 'Restaurants', 'Pakistani']	0.7336244541484717	0.2663755458515284
+Z_mJYg3vi8cPZHa1J4BALw	214	49	b'Kindred Restaurant'	Davidson	4.5	262	['Cocktail Bars', 'Restaurants', 'American (New)', 'Bars', 'Diners', 'Nightlife']	0.816793893129771	0.18702290076335878
+_2trMwFsh5-IqqEcQ-OLVA	141	83	"b""Mac's Speed Shop"""	Charlotte	3.5	223	['Restaurants', 'Chicken Wings', 'American (Traditional)', 'Barbeque']	0.6322869955156951	0.3721973094170404
+_5UAFrD3EDgJO1aZgRxH7w	244	87	"b""Price's Chicken Coop"""	Charlotte	4.0	331	['Restaurants', 'Southern', 'Event Planning & Services', 'Caterers']	0.7371601208459214	0.2628398791540785
+_kzB_xsb9DHUPfXB0XfQGA	98	104	b'Cantina 1511'	Charlotte	3.0	202	['Restaurants', 'Tex-Mex', 'Nightlife', 'Mexican', 'Bars']	0.48514851485148514	0.5148514851485149
+aBLx9JlAMq_AuW6VAImSwg	280	216	"b""Zada Jane's Corner Cafe"""	Charlotte	3.5	497	['Restaurants', 'American (New)', 'Salad', 'Breakfast & Brunch', 'Sandwiches']	0.5633802816901409	0.4346076458752515
+aE-02jgBVhV56x0kbfvSIA	195	27	b'Yafo Kitchen'	Charlotte	4.5	222	['Restaurants', 'Food', 'Specialty Food', 'Mediterranean', 'Ethnic Food', 'Middle Eastern']	0.8783783783783784	0.12162162162162163
+aIJqDWUt10iS45zYCr0KcQ	155	82	b'Thai Taste'	Charlotte	3.5	236	['Thai', 'Restaurants']	0.6567796610169492	0.3474576271186441
+aZG9Hp8fdgzq37iuB1QTYg	129	111	b'Carowinds'	Charlotte	3.5	240	['Active Life', 'Amusement Parks']	0.5375	0.4625
+apMG3W6-qpHIuo4ApZy3IA	178	53	"b""Bricktop's Restaurant"""	Charlotte	4.0	231	['American (New)', 'Breakfast & Brunch', 'Restaurants']	0.7705627705627706	0.22943722943722944
+b42EKdSk61zd_FEqEwioYQ	133	58	b'Upstream'	Charlotte	4.0	191	['Seafood', 'Sushi Bars', 'Breakfast & Brunch', 'Restaurants']	0.6963350785340314	0.3036649214659686
+b8fEuQPrf383f6pzdm8-1w	165	163	b'Vida Mexican Kitchen y Cantina'	Charlotte	3.5	328	['Mexican', 'Restaurants']	0.5030487804878049	0.4969512195121951
+bXbCGFk3ZjLcTdQQB-xPyQ	198	51	"b""Luciano's Ristorante Italiano"""	Charlotte	4.0	249	['Restaurants', 'Italian']	0.7951807228915663	0.20481927710843373
+bZtukyhyV1oVmUU3yRBPbQ	288	30	b'Smelly Cat Coffee'	Charlotte	4.5	318	['Internet Cafes', 'Desserts', 'Bagels', 'Food', 'Coffee & Tea', 'Restaurants', 'Vegan', 'Breakfast & Brunch']	0.9056603773584906	0.09433962264150944
+bfVpHvjir2G2Z9wVeddw4w	237	85	b'The Olde Mecklenburg Brewery'	Charlotte	4.0	322	['Breweries', 'Restaurants', 'German', 'Event Planning & Services', 'Venues & Event Spaces', 'Food']	0.7360248447204969	0.2639751552795031
+bgvm73MMjC2f5qo_RgXOXg	183	53	b'Halcyon'	Charlotte	4.0	237	['Bars', 'American (New)', 'Diners', 'Cocktail Bars', 'Nightlife', 'Tapas/Small Plates', 'Modern European', 'Restaurants']	0.7721518987341772	0.22362869198312235
+bm_PGQMGMjylitqkNIEzTw	238	119	b'Vivace'	Charlotte	3.5	358	['Restaurants', 'Italian', 'Tapas/Small Plates']	0.664804469273743	0.3324022346368715
+buacGSEw8yLGJo8g-i02wg	229	104	b'Pisces Sushi Bar & Lounge'	Charlotte	4.0	333	['Restaurants', 'Japanese', 'Seafood', 'Sushi Bars']	0.6876876876876877	0.3123123123123123
+bzbNGyrTwWHAgg1CqkSgeg	361	123	"b""Stewart Penick's Terrace - SouthPark"""	Charlotte	4.0	484	['French', 'Restaurants', 'Cafes', 'Southern', 'Irish', 'Breakfast & Brunch', 'American (Traditional)', 'Food', 'American (New)', 'Comfort Food', 'Desserts']	0.7458677685950413	0.25413223140495866
+c-l4nDPZcEwapEiV-Xf08w	147	64	b'Ilios Noche'	Charlotte	4.0	211	['Italian', 'Greek', 'Mediterranean', 'Restaurants']	0.6966824644549763	0.3033175355450237
+c4KXpCou6HBOgfKp2z2_hw	198	97	"b""Stewart Penick's Terrace - Ballantyne"""	Charlotte	3.5	295	['Southern', 'American (New)', 'Breakfast & Brunch', 'Restaurants', 'Cafes', 'Comfort Food']	0.6711864406779661	0.3288135593220339
+c6-5RCj8FtV-m1aHz4wnmQ	135	47	b'Saigon Palace'	Charlotte	4.0	181	['Vietnamese', 'Restaurants']	0.7458563535911602	0.2596685082872928
+c9SKd0bIR6nNzXOVCbOi_A	183	93	b'IKEA'	Charlotte	3.5	276	['Home & Garden', 'Furniture Stores', 'Kitchen & Bath', 'Shopping', 'Home Decor']	0.6630434782608695	0.33695652173913043
+cwCLcQns_SSExsBCzWNQDA	162	107	b'Phat Burrito'	Charlotte	3.5	268	['Tex-Mex', 'Mexican', 'Restaurants']	0.6044776119402985	0.39925373134328357
+d8lmIZIqmBC9oPM8y1dc7Q	349	100	"b""Paco's Tacos & Tequila"""	Charlotte	4.0	450	['Nightlife', 'Tex-Mex', 'Bars', 'Restaurants', 'Mexican', 'Tacos']	0.7755555555555556	0.2222222222222222
+e9sB72njxz87r5TL6kG-Fw	293	114	b'Cowbell Burger & Whiskey Bar'	Charlotte	4.0	408	['Burgers', 'Whiskey Bars', 'Bars', 'Restaurants', 'Nightlife']	0.7181372549019608	0.27941176470588236
+eAZqT24e0Pk8apWzy3RsAQ	319	84	"b""McKoy's Smokehouse & Saloon"""	Charlotte	4.0	402	['Chicken Wings', 'Restaurants', 'Barbeque', 'Southern']	0.7935323383084577	0.208955223880597
+eZDXz_RylvdD0tHEA8I0NA	279	79	b'New Zealand Cafe'	Charlotte	4.0	358	['Restaurants', 'Sushi Bars', 'Seafood', 'Asian Fusion']	0.7793296089385475	0.2206703910614525
+f12Zv1B9crmSW58iyTR_mA	140	61	b'Midwood Smokehouse'	Charlotte	4.0	201	['Food', 'Restaurants', 'Barbeque', 'Smokehouse']	0.6965174129353234	0.3034825870646766
+fJqY-E3adwx7LLozV1TfFA	171	66	b'Eez Fusion Grille & Sushi Bar'	Huntersville	4.0	237	['Restaurants', 'Sushi Bars', 'Thai']	0.7215189873417721	0.27848101265822783
+fzRxHv7XnnDqTmX25tVbJg	98	185	b'Taco Mac'	Charlotte	2.5	283	['American (Traditional)', 'Nightlife', 'Chicken Wings', 'Sports Bars', 'Bars', 'Restaurants', 'American (New)']	0.3462897526501767	0.6537102473498233
+g-E12y45gBKedax5N20YmQ	147	43	b'The Burrito Factory'	Charlotte	4.0	190	['Mexican', 'Tex-Mex', 'Restaurants']	0.7736842105263158	0.22631578947368422
+gChmBjLSe3qa8rzEngoDLQ	212	260	b'Fahrenheit'	Charlotte	3.0	472	['American (New)', 'Restaurants', 'Pizza', 'Salad']	0.4491525423728814	0.5508474576271186
+gGt00WW8sNY2Sop7jYa7Tw	222	71	b'Bakersfield East Blvd'	Charlotte	4.0	293	['Food', 'Ethnic Food', 'Nightlife', 'Tex-Mex', 'Mexican', 'Specialty Food', 'Restaurants', 'Bars']	0.757679180887372	0.24232081911262798
+gJttMZnv0Gy9OlLhNzPbQQ	101	113	b'Little Spoon'	Charlotte	3.5	214	['Restaurants', 'American (New)', 'Breakfast & Brunch', 'Sandwiches']	0.4719626168224299	0.5280373831775701
+gOOdzjVxP7Z7bGjsstRjcw	168	54	b'Flying Saucer Draught Emporium'	Charlotte	4.0	222	['Sandwiches', 'American (Traditional)', 'Pubs', 'Nightlife', 'Bars', 'Restaurants']	0.7567567567567568	0.24324324324324326
+gwd1W_0Mgzqo3QxgXrt16Q	118	119	"b""RuRu's Tacos + Tequila"""	Charlotte	3.5	237	['Tex-Mex', 'Nightlife', 'Restaurants', 'Mexican', 'Bars', 'Cocktail Bars']	0.4978902953586498	0.5021097046413502
+h6f3QbR0n0fpS2Tu9MJJTw	224	59	b'Viet-Thai Noodle House'	Charlotte	4.0	283	['Vietnamese', 'Thai', 'Noodles', 'Restaurants']	0.7915194346289752	0.20848056537102475
+hVLFDDA31wYm3Jjz3w74GA	131	73	"b""Duckworth's Grill & Taphouse"""	Charlotte	3.5	204	['Nightlife', 'Beer Gardens', 'Restaurants', 'Food', 'American (Traditional)', 'Beer', 'Wine & Spirits']	0.6421568627450981	0.35784313725490197
+hcjnOtiW7Bdym3-7PaLUzA	232	57	b'Le Kebab Grill'	Charlotte	4.0	289	['Halal', 'Middle Eastern', 'Sandwiches', 'Mediterranean', 'Restaurants']	0.8027681660899654	0.1972318339100346
+hggVnGwA5042-ABxqeJX-A	428	63	b'Good Food on Montford'	Charlotte	4.5	488	['Nightlife', 'Bars', 'Tapas Bars', 'Tapas/Small Plates', 'Cocktail Bars', 'American (New)', 'Restaurants']	0.8770491803278688	0.1290983606557377
+iJpTpE9A8WDWvUlvUcFZuA	122	64	b'Brio Coastal Bar and Kitchen'	Charlotte	3.5	186	['Pizza', 'Italian', 'American (New)', 'Seafood', 'Nightlife', 'Cocktail Bars', 'Restaurants', 'Bars']	0.6559139784946236	0.34408602150537637
+iyFS4twFjCKfaKl7kUl3sg	164	44	"b""Harry's Grille & Tavern"""	Charlotte	4.0	208	['Restaurants', 'Burgers', 'Cocktail Bars', 'Steakhouses', 'American (Traditional)', 'Nightlife', 'Bars', 'American (New)', 'Pubs', 'Gastropubs', 'Tapas/Small Plates', 'Breakfast & Brunch']	0.7884615384615384	0.21153846153846154
+jXHmmircEbhQmZjWDR1xIA	305	101	b'Bistro La Bon'	Charlotte	4.0	406	['Restaurants', 'Breakfast & Brunch', 'Mediterranean']	0.7512315270935961	0.24876847290640394
+jYqOPpSmtKbKzf0Z_g-Oyg	118	84	b'Flying Biscuit Cafe- Charlotte'	Charlotte	3.5	202	['Breakfast & Brunch', 'Southern', 'Soul Food', 'Vegetarian', 'Restaurants']	0.5841584158415841	0.4158415841584158
+jcasci3gjbsSuTEVzvDQKg	257	83	"b""Mama Ricotta's Restaurant"""	Charlotte	4.0	339	['Restaurants', 'Italian', 'Venues & Event Spaces', 'Event Planning & Services']	0.7581120943952803	0.2448377581120944
+k-drEjxKmfqllwfY90STfA	268	157	b'Cantina 1511'	Charlotte	3.5	425	['Bars', 'Restaurants', 'Tex-Mex', 'Nightlife', 'Mexican']	0.6305882352941177	0.36941176470588233
+kPfhSK0kcUmOTmC5DEjaDw	162	32	"b""Doan's"""	Charlotte	4.0	194	['Vegetarian', 'Restaurants', 'Asian Fusion', 'Vietnamese']	0.8350515463917526	0.16494845360824742
+kfwAKuRFdWKRl42hpsimuQ	147	46	b'The String Bean'	Belmont	4.0	193	['Delis', 'Event Planning & Services', 'Sandwiches', 'Beer', 'Wine & Spirits', 'Food', 'Caterers', 'Grocery', 'Restaurants']	0.7616580310880829	0.23834196891191708
+kgmVm_ZbJsJpSye27xccvg	142	45	b'Killingtons Restaurant & Pub'	Huntersville	4.0	187	['Gastropubs', 'American (Traditional)', 'Restaurants']	0.7593582887700535	0.24064171122994651
+mC39IrCp36QIVFRZIw9PTQ	289	93	b'Seoul Food Meat Company'	Charlotte	4.0	382	['Chicken Wings', 'Restaurants', 'Korean', 'Asian Fusion', 'Barbeque']	0.756544502617801	0.24345549738219896
+mLeAFPQ9fy5pYCTp0xjJkQ	218	70	"b""Razzoo's Cajun Cafe"""	Concord	4.0	288	['Restaurants', 'Cajun/Creole', 'Seafood']	0.7569444444444444	0.24305555555555555
+mOMeDQB8NjdBTTzKtikAYg	196	56	b'The Roasting Company'	Charlotte	4.0	251	['Restaurants', 'Chicken Wings', 'Southern']	0.7808764940239044	0.22310756972111553
+nEQFnHydeX2A3bRRDAKqQg	105	104	"b""Chuy's"""	Charlotte	3.5	209	['Tex-Mex', 'Mexican', 'Restaurants']	0.5023923444976076	0.49760765550239233
+npWIa3dIPEV1MTaZNq6AUA	190	58	b'Firebirds Wood Fired Grill'	Charlotte	4.0	248	['Seafood', 'Bars', 'Restaurants', 'Nightlife', 'American (New)', 'American (Traditional)', 'Wine Bars', 'Steakhouses']	0.7661290322580645	0.23387096774193547
+nxz2oOD3sryU5evFAYmmLQ	161	59	"b""Jim 'n Nick's Bar-B-Q"""	Concord	4.0	220	['Restaurants', 'Barbeque', 'Event Planning & Services', 'Caterers']	0.7318181818181818	0.2681818181818182
+ny8YcGEViSGKWxo69xfiiA	159	69	"b""Sauceman's"""	Charlotte	4.0	228	['Pizza', 'Sandwiches', 'Barbeque', 'Southern', 'Restaurants']	0.6973684210526315	0.3026315789473684
+o5QDrg_kb4hgsWxV6cV_Uw	305	137	b'The Flying Biscuit Cafe - Charlotte'	Charlotte	4.0	441	['Soul Food', 'Restaurants', 'Breakfast & Brunch', 'Vegetarian', 'Southern', 'American (New)']	0.691609977324263	0.31065759637188206
+osSwv6CJy5hDKQdOKeyTow	311	129	"b""Ru San's"""	Charlotte	4.0	440	['Restaurants', 'Sushi Bars', 'Japanese']	0.7068181818181818	0.29318181818181815
+pldfvm-zM2VU5m9a-j9cMQ	237	23	b'Hazelnuts Creperie'	Charlotte	4.5	260	['Cafes', 'Desserts', 'Food', 'Breakfast & Brunch', 'Creperies', 'Restaurants']	0.9115384615384615	0.08846153846153847
+pzy9xWQqsDxVU6j9MktRJg	156	73	b'Azteca Mexican Restaurant'	Charlotte	4.0	228	['Restaurants', 'Mexican']	0.6842105263157895	0.3201754385964912
+qWSwDbtJRBvKTiMpH3rNLQ	138	68	b'Deejai Thai'	Charlotte	4.0	206	['Sushi Bars', 'Asian Fusion', 'Thai', 'Restaurants']	0.6699029126213593	0.3300970873786408
+rmP7AzV3SAeRWUzbNuqQ5A	188	42	b'131 Main'	Cornelius	4.0	230	['Nightlife', 'Restaurants', 'American (Traditional)', 'Bars']	0.8173913043478261	0.1826086956521739
+s6lTNO57vXsfzyYrPfXOvA	231	70	b'Vietnam Grille'	Charlotte	4.0	300	['Restaurants', 'Vietnamese']	0.77	0.23333333333333334
+s8OLoPfOpB0FbK5frI3CkQ	162	232	b'The Peculiar Rabbit'	Charlotte	3.0	394	['Gastropubs', 'Asian Fusion', 'British', 'American (New)', 'Restaurants']	0.41116751269035534	0.5888324873096447
+sAXy1yJRLllTm5WrJbJGAA	195	64	"b""Del Frisco's Double Eagle Steak House"""	Charlotte	4.0	258	['Restaurants', 'Steakhouses']	0.7558139534883721	0.24806201550387597
+sH3UsolKjik01u0HlQ9_0Q	259	85	b'Three Amigos Mexican Restaurant and Cantina'	Charlotte	4.0	344	['Mexican', 'Restaurants']	0.752906976744186	0.24709302325581395
+sPwgafejYVdf8hd4-oDYVg	139	43	b'DD Peckers'	Charlotte	4.0	182	['Burgers', 'Cheesesteaks', 'Restaurants', 'Chicken Wings']	0.7637362637362637	0.23626373626373626
+t8V_P7ZzRrhDQoqeoGVahQ	203	37	"b""The Cellar At Duckworth's"""	Charlotte	4.5	240	['Nightlife', 'Cocktail Bars', 'Tapas/Small Plates', 'Lounges', 'Tapas Bars', 'Restaurants', 'Gastropubs', 'Bars', 'American (New)']	0.8458333333333333	0.15416666666666667
+tCSlpwJQ4CZsUEMZeH2SFg	257	92	b'Cafe Monte'	Charlotte	4.0	349	['Breakfast & Brunch', 'Food', 'Bakeries', 'French', 'Restaurants']	0.7363896848137536	0.2636103151862464
+tIiiq23utFKTs1At2bVD6w	148	44	b'Oggi'	Charlotte	4.0	192	['Restaurants', 'Italian']	0.7708333333333334	0.22916666666666666
+tInrGCzll4k9hF34Ye1rvQ	252	113	b'Chima  Steakhouse'	Charlotte	4.0	365	['Event Planning & Services', 'Buffets', 'Bars', 'Brazilian', 'Nightlife', 'Venues & Event Spaces', 'Cocktail Bars', 'Vegetarian', 'Restaurants', 'Steakhouses']	0.6904109589041096	0.3095890410958904
+tjAeaGdxf7I4xN9M7wGJNQ	191	35	b'Pure Pizza'	Charlotte	4.0	226	['Pizza', 'Food', 'Gluten-Free', 'Farmers Market', 'Restaurants', 'Vegetarian']	0.8451327433628318	0.15486725663716813
+trodK1jXLGIn5qjJCooIpQ	169	77	"b""Rooster's at Southpark"""	Charlotte	4.0	245	['American (New)', 'Breakfast & Brunch', 'Southern', 'Restaurants']	0.689795918367347	0.3142857142857143
+uDb1lOfDhl_VLmAbYvp-vQ	163	34	"b""Benny Pennello's"""	Charlotte	4.0	197	['Pizza', 'Restaurants', 'Italian', 'Fast Food']	0.8274111675126904	0.17258883248730963
+uGzxwS3Q6QuyFw2ZnDvw0w	200	53	b'JackBeagles'	Charlotte	4.0	253	['Restaurants', 'American (Traditional)', 'Bars', 'Nightlife', 'Pubs', 'Breakfast & Brunch']	0.7905138339920948	0.20948616600790515
+uM8JeO42ouAP3rdtwCY-OQ	162	33	b'Tenders Fresh Food'	Cornelius	4.0	195	['Restaurants', 'Fast Food', 'Sandwiches']	0.8307692307692308	0.16923076923076924
+uejutOD4_-IUaY5cKkpezg	159	23	b'Rush Espresso Cafe and Wine Bar'	Charlotte	4.5	183	['Cafes', 'Nightlife', 'Breakfast & Brunch', 'Wine Bars', 'Food', 'Coffee & Tea', 'Bars', 'Restaurants']	0.8688524590163934	0.12568306010928962
+v4HpZFOU3mvIeuHLRSIi7g	143	37	b'Bahn Thai'	Charlotte	4.0	180	['Salad', 'Thai', 'Sushi Bars', 'Restaurants']	0.7944444444444444	0.20555555555555555
+vBNM4NEBuO66Hk5yO797eA	148	36	"b""Lupie's Cafe"""	Charlotte	4.0	183	['American (Traditional)', 'Restaurants']	0.8087431693989071	0.19672131147540983
+vqG1Z2XpS_PryPsfY0CSng	260	50	b'The Capital Grille'	Charlotte	4.5	311	['Wine Bars', 'Bars', 'American (Traditional)', 'Seafood', 'Steakhouses', 'Nightlife', 'Restaurants']	0.8360128617363344	0.1607717041800643
+vxadNrpTY7OHNmWsrEpNnA	116	95	b'Landmark Diner Restaurant'	Charlotte	3.5	211	['Diners', 'Greek', 'Breakfast & Brunch', 'Restaurants', 'Italian']	0.5497630331753555	0.45023696682464454
+wArcCMVnrl_tc9MULW-0CQ	296	178	b'Heist Brewery'	Charlotte	3.5	473	['Bars', 'Food', 'Nightlife', 'Cocktail Bars', 'Beer Bar', 'American (New)', 'Breweries', 'Restaurants']	0.6257928118393234	0.3763213530655391
+wDfz8ap9xWzj46mtNDcT9A	150	58	"b""Miguel's Restaurants"""	Charlotte	4.0	209	['Restaurants', 'Mexican']	0.7177033492822966	0.27751196172248804
+wJnhUJCOYkncLPZAwaMffA	138	69	b'Room 112'	Charlotte	3.5	207	['Soup', 'Asian Fusion', 'Sushi Bars', 'Chinese', 'Restaurants']	0.6666666666666666	0.3333333333333333
+wiEQrYSNofc10q7Pm26b0w	159	28	b'The Common Market'	Charlotte	4.5	187	['Food', 'Farmers Market', 'Delis', 'Restaurants']	0.8502673796791443	0.1497326203208556
+x0Ec6gz07SBnWrBOQLisiA	146	37	b'Chopt Creative Salad Company'	Charlotte	4.0	183	['American (New)', 'Sandwiches', 'Salad', 'Specialty Food', 'Food', 'Do-It-Yourself Food', 'Restaurants']	0.7978142076502732	0.20218579234972678
+y1eeVRfJa22CCpUCeNfrSw	288	166	b'Basil Thai Cuisine'	Charlotte	3.5	454	['Restaurants', 'Vegetarian', 'Seafood', 'Thai']	0.6343612334801763	0.3656387665198238
+yMopev-RPxfEXgqkJOvCGA	402	123	b'Cajun Queen'	Charlotte	4.0	526	['Restaurants', 'Breakfast & Brunch', 'Jazz & Blues', 'Cajun/Creole', 'Nightlife', 'Arts & Entertainment']	0.7642585551330798	0.2338403041825095
+yWUBX9Pe6pzh1PjVj04UmQ	331	79	"b""Bad Daddy's Burger Bar"""	Charlotte	4.0	410	['Ice Cream & Frozen Yogurt', 'Restaurants', 'Nightlife', 'Bars', 'Fast Food', 'Food', 'Burgers', 'Salad']	0.8073170731707318	0.1926829268292683
+yesClkCZlpLGTYZROkx4SA	240	103	b'Krazy Fish'	Charlotte	4.0	343	['Seafood', 'Breakfast & Brunch', 'Vegetarian', 'Asian Fusion', 'Restaurants']	0.6997084548104956	0.30029154518950435
+z2Yivr-C0K0H2sLNXvnZyg	189	25	b'Peace -N- Hominy Q Shack'	Belmont	4.5	213	['Southern', 'Shopping', 'Burgers', 'Home & Garden', 'Restaurants', 'Hot Dogs', 'Barbeque', 'American (Traditional)', 'Breakfast & Brunch', 'Appliances']	0.8873239436619719	0.11737089201877934
+zFnPRtP7LGvr3sfxvy_dfg	116	109	b'Revolution Ale House'	Charlotte	3.5	225	['Bars', 'Italian', 'Pizza', 'Nightlife', 'Restaurants']	0.5155555555555555	0.48444444444444446
+zKacC3jzdl9MJLkczFI6qg	185	34	b'Waldhorn Restaurant'	Pineville	4.5	218	['Beer Bar', 'Restaurants', 'Event Planning & Services', 'Nightlife', 'Wine Bars', 'German', 'Venues & Event Spaces', 'Bars', 'Party & Event Planning']	0.8486238532110092	0.1559633027522936
+zMnojW6x-1-nVu0uCd60Ew	127	114	b'Whiskey Warehouse'	Charlotte	3.5	241	['American (New)', 'Pubs', 'Nightlife', 'Restaurants', 'Bars', 'Whiskey Bars']	0.5269709543568465	0.4730290456431535
+zaLFPpm-t89qSDOaFVgwDQ	127	147	"b""Bad Daddy's Burger Bar"""	Charlotte	3.0	274	['Burgers', 'Restaurants', 'Bars', 'Nightlife', 'Salad']	0.4635036496350365	0.5364963503649635
