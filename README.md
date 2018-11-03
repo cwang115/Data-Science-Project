@@ -1,5 +1,6 @@
 # Data-Science-Project
 This is the repository for course projects of DS501: Introduction to Data Science
+
 We used Twitter Streaming API to collect data regarding "Ryanair" and performed Data Analysis for analyzing the tweets and tweet entities with frequency analysis and also performed Sentimental Analysis using Python.
 
 Analyzed Data from MovieLens to provide a possible solution of how a movie company could promote the movie according to genre, age group, occupation and gender using Python.
